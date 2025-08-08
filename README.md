@@ -4,7 +4,7 @@
 Practice SQL queries based on real-world scenarios.
 This is part of my personal upskilling journey in data analytics.
 
-### Problems and Queries 
+### Problem Statement and Queries 
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
