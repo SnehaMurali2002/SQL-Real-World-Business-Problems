@@ -1,0 +1,8 @@
+# SQL Practice — Real-world Problems
+
+This repository contains SQL practice problems with table creation, sample data, solution queries and short explanations.
+
+| Problem No. | Problem Title                                 | SQL File |
+|-------------|-----------------------------------------------|----------|
+| 1           | Consistent Uber Riders in Chennai             | [View SQL](Problem_01_Consistent_Uber_Riders.sql) |
+| 2           | Monthly Sales Report                          | [View SQL](Problem_02_Monthly_Sales_Report.sql)  |
