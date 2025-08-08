@@ -186,6 +186,17 @@ WHERE city = 'Chennai'
 GROUP BY customer_id, customer_name
 HAVING COUNT(*) >= 30;
 
+
+-- Sample Output:
+-- +-------------+----------------+-------------+
+-- | customer_id | customer_name  | total_rides |
+-- +-------------+----------------+-------------+
+-- | 202         | Arun           | 35          |
+-- | 205         | Hari           | 33          |
+-- | 201         | Mani           | 49          |
+-- +-------------+----------------+-------------+
+
+
 --- Explanation
 
 ---Filters:
