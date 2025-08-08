@@ -1,2 +1,5 @@
 # SQL-Real-World-Business-Problems
-This repository contains real-world SQL business case studies with table creation scripts, sample data, and queries for practice and portfolio.
+Practice SQL queries based on real-world scenarios.
+This is part of my personal upskilling journey in data analytics.
+
+
