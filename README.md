@@ -8,7 +8,7 @@ This is part of my personal upskilling journey in data analytics.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://github.com/SnehaMurali2002/SQL-Real-World-Business-Problems/blob/main/01_Consistent_Uber_Riders.sql) | [SQL](Basic%20Select/Revising-the-select-Query-1.sql)
+| 1 | Uber | [SQL](https://github.com/SnehaMurali2002/SQL-Real-World-Business-Problems/blob/main/01_Consistent_Uber_Riders.sql)
 
 
 
